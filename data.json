@@ -1,0 +1,17 @@
+[
+  {
+    "email" : "luan@gmail.com",
+    "password" : "1234",
+    "phone" : "555-1234"
+  },
+  {
+    "email" : "luan1@gmail.com",
+    "password" : "1234",
+    "phone" : "555-1234"
+  },
+  {
+    "email" : "luan2@gmail.com",
+    "password" : "1234",
+    "phone" : "555-1234"
+  }
+]
