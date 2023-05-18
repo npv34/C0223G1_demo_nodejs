@@ -30,6 +30,18 @@ const server = http.createServer((req, res) => {
                 console.log(err.message);
             })
             break;
+        case '/logout':
+            handle.logout(req, res).catch(err => {
+                console.log(err.message);
+            })
+            break;
+
+        case '/users':
+            handle.getUserList(req, res).catch(err => {
+                console.log(err.message);
+            })
+            break;
+
         default:
             res.end()
     }

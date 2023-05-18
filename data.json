@@ -1,15 +1,18 @@
 [
   {
+    "id": 1,
     "email" : "luan@gmail.com",
     "password" : "1234",
     "phone" : "555-1234"
   },
   {
+    "id": 2,
     "email" : "luan1@gmail.com",
     "password" : "1234",
     "phone" : "555-1234"
   },
   {
+    "id": 3,
     "email" : "luan2@gmail.com",
     "password" : "1234",
     "phone" : "555-1234"
